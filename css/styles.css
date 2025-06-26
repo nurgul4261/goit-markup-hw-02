@@ -168,6 +168,9 @@ color: #434455;
 }
 
 .footer {
+  display: block;
+  width: 1440;
+  height: 312;
   background-color: #2E2F42;
 }
 .footer-logo {
@@ -177,6 +180,7 @@ color: #434455;
   line-height: 21px;
   letter-spacing: 3%;
   color: #4D5AE5;
+  text-align: left;
 }
 
 .footer-section {
@@ -186,6 +190,7 @@ color: #434455;
   line-height: 21px;
   letter-spacing: 3%;
   color: #F4F4FD;
+  text-align: left;
 }
 
 .footer-text {
@@ -195,4 +200,5 @@ color: #434455;
   line-height: 24px;
   letter-spacing: 2%;
   color: #434455;
+  text-align: left;
 }
