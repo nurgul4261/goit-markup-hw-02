@@ -11,7 +11,7 @@ body {
  font-size: 18px;
  line-height: 1.17;
  letter-spacing: 3%;
- color: #4D5AE5
+ color: #4D5AE5;
 }
 
 .logo-section {
@@ -42,7 +42,7 @@ body {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 2%
+  letter-spacing: 2%;
 }
 
 .address-link:hover,
@@ -73,6 +73,15 @@ body {
   text-align: center;
 }
 
+.hero {
+  display: block;
+  width: 1440;
+  height: 600;
+  background-color: #2E2F42;
+  text-align: center;
+}
+  
+
 .hero-button:hover,
 .hero-button:focus {
   background-color: #404BBF;
@@ -84,7 +93,7 @@ body {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 2%;
-  color: #2E2F42
+  color: #2E2F42;
 }
 
 .services-text {
@@ -93,7 +102,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 2%;
-  color: #434455
+  color: #434455;
 }
 
 .team-title {
@@ -135,7 +144,7 @@ color: #434455;
   line-height: 1.1;
   letter-spacing: 2%;
   text-align: center;
-  color: #2E2F42
+  color: #2E2F42;
 }
 
 .portfolio-item-title {
@@ -144,7 +153,7 @@ color: #434455;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 2%;
-  color: #2E2F42
+  color: #2E2F42;
 }
 
 .portfolio-item-text {
@@ -153,7 +162,7 @@ color: #434455;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 2%;
-  color: #434455
+  color: #434455;
 }
 
 .footer {
