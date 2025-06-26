@@ -77,8 +77,8 @@ body {
 
 .hero {
   display: block;
-  width: 1440;
-  height: 600;
+  width: 1440px;
+  height: 600px;
   background-color: #2E2F42;
   text-align: center;
 }
