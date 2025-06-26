@@ -37,7 +37,7 @@ body {
   color: #404BBF;
 }
 
-.address-list-item {
+.address-link {
   font-family: Roboto;
   font-weight: 400;
   font-size: 16px;
@@ -45,15 +45,15 @@ body {
   letter-spacing: 2%
 }
 
-.address-list .address-list-item:hover,
-.address-list .address-list-item:focus {
+.address-link:hover,
+.address-link:focus {
   color: #404BBF;
 }
 .hero-title {
   font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-size: 56px;
-  line-height: 1.07;
+  line-height: 120px;
   letter-spacing: 2%;
   color: #FFFFFF;
   background-color: #2E2F42;
@@ -163,7 +163,7 @@ color: #434455;
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.17;
+  line-height: 21px;
   letter-spacing: 3%;
   color: #4D5AE5;
 }
@@ -174,14 +174,14 @@ color: #434455;
   font-size: 18px;
   line-height: 21px;
   letter-spacing: 3%;
-  color: #2E2F42;
+  color: #F4F4FD;
 }
 
 .footer-text {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 16px;
-  line-height: 1.5;
+  line-height: 24px;
   letter-spacing: 2%;
   color: #434455;
 }
